@@ -1,0 +1,18 @@
+{
+  "cssImports": {
+    "/Users/vera/cbd/app/layout.js": [
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/vera/cbd/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/vera/cbd/app/home/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/about/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
