@@ -19,31 +19,31 @@ const navigation = [
     submenu: [
       {
         name: "Il tubo",
-        href: "/iltubo",
+        href: "/exhibition/il-tubo",
       },
       {
         name: "In-sicure stabilità",
-        href: "/insicurestabilita",
+        href: "/exhibition/insicure-stabilita",
       },
       {
         name: "Il cubo",
-        href: "/ilcubo",
+        href: "/exhibition/il-cubo",
       },
       {
         name: "Inside the outside",
-        href: "/insidetheoutside",
+        href: "/exhibition/inside-the-outside",
       },
       {
         name: "The Belly",
-        href: "/thebelly",
+        href: "/exhibition/the-belly",
       },
       {
         name: "The Sign",
-        href: "/thesign",
+        href: "/exhibition/the-sign",
       },
       {
         name: "Mirror/s",
-        href: "/mirrors",
+        href: "/exhibition/mirrors",
       },
     ] 
   },
