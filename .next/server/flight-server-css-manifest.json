@@ -10,23 +10,15 @@
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/Users/vera/cbd/app/about/page": [
-      "/Users/vera/cbd/app/globals.css",
-      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
-    "/Users/vera/cbd/app/work/page": [
-      "/Users/vera/cbd/app/globals.css",
-      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
     "/Users/vera/cbd/app/exhibition/il-tubo/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/Users/vera/cbd/app/exhibition/insicure-stabilita/page": [
+    "/Users/vera/cbd/app/exhibition/il-cubo/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/Users/vera/cbd/app/exhibition/il-cubo/page": [
+    "/Users/vera/cbd/app/exhibition/insicure-stabilita/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
@@ -43,6 +35,14 @@
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
     "/Users/vera/cbd/app/exhibition/mirrors/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/work/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/about/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],

@@ -77,7 +77,7 @@ const Navbar = () => {
 
   return (
         <>
-          <nav className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+          <nav className="mx-auto max-w-7xl pb-2 sm:pb-6 lg:pb-8">
             <div className="relative flex h-16 items-center justify-between">
                 <Link href="/home">
                 <Image 
