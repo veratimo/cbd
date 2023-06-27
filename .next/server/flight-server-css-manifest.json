@@ -33,6 +33,22 @@
     "/Users/vera/cbd/app/exhibition/inside-the-outside/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/exhibition/the-belly/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/exhibition/the-sign/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/exhibition/mirrors/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/lateralmente/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
   }
 }

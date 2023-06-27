@@ -176,21 +176,441 @@
         "async": false
       }
     },
-    "(app-client)/./components/Navbar.jsx": {
+    "(app-client)/./public/assets/images/welcome/belly1.webp": {
       "*": {
-        "id": "(sc_client)/./components/Navbar.jsx",
+        "id": "(sc_client)/./public/assets/images/welcome/belly1.webp",
         "name": "*",
         "chunks": [],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./components/Navbar.jsx",
+        "id": "(sc_client)/./public/assets/images/welcome/belly1.webp",
         "name": "",
         "chunks": [],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/Navbar.jsx",
+        "id": "(sc_client)/./public/assets/images/welcome/belly1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/belly2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/belly2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/belly2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/belly2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/belly3.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/belly3.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/belly3.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/belly3.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/cubo1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/cubo2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/cubo3.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo3.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo3.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/cubo3.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/insicure1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/insicure2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/insicure3.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure3.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure3.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/insicure3.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/inside1-1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1-1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1-1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1-1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/inside1-2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1-2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1-2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1-2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/inside1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/inside1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/sign1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/sign2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/sign3.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign3.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign3.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/sign3.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/specchio1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/specchio2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/specchio3.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio3.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio3.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/specchio3.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/tubo1.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo1.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo1.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo1.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/tubo2.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo2.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo2.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo2.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/assets/images/welcome/tubo3.webp": {
+      "*": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo3.webp",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo3.webp",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/assets/images/welcome/tubo3.webp",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Homepage.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Homepage.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Homepage.jsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Homepage.jsx",
         "name": "default",
         "chunks": [],
         "async": false
@@ -258,6 +678,26 @@
       "defaultHead": {
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Navbar.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Navbar.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Navbar.jsx",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Navbar.jsx",
+        "name": "default",
         "chunks": [],
         "async": false
       }
@@ -937,41 +1377,531 @@
       ],
       "async": false
     },
-    "/Users/vera/cbd/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/vera/cbd/components/Navbar.jsx": {
-      "id": "(app-client)/./components/Navbar.jsx",
+    "/Users/vera/cbd/public/assets/images/welcome/belly1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/belly1.webp",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/home/page:static/chunks/app/home/page.js"
       ],
       "async": false
     },
-    "/Users/vera/cbd/components/Navbar.jsx#": {
-      "id": "(app-client)/./components/Navbar.jsx",
+    "/Users/vera/cbd/public/assets/images/welcome/belly1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/belly1.webp",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/home/page:static/chunks/app/home/page.js"
       ],
       "async": false
     },
-    "/Users/vera/cbd/components/Navbar.jsx#default": {
-      "id": "(app-client)/./components/Navbar.jsx",
+    "/Users/vera/cbd/public/assets/images/welcome/belly1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/belly1.webp",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/belly2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/belly2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/belly2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/belly2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/belly2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/belly2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/belly3.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/belly3.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/belly3.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/belly3.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/belly3.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/belly3.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo3.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo3.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo3.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo3.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/cubo3.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/cubo3.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure3.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure3.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure3.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure3.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/insicure3.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/insicure3.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1-1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1-1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1-1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1-1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1-1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1-1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1-2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1-2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1-2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1-2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1-2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1-2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/inside1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/inside1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/sign1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/sign1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/sign1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/sign2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/sign2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/sign2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign3.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/sign3.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign3.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/sign3.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/sign3.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/sign3.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio3.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio3.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio3.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio3.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/specchio3.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/specchio3.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo1.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo1.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo1.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo1.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo1.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo1.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo2.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo2.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo2.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo2.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo2.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo2.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo3.webp": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo3.webp",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo3.webp#": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo3.webp",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/public/assets/images/welcome/tubo3.webp#default": {
+      "id": "(app-client)/./public/assets/images/welcome/tubo3.webp",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/components/Homepage.jsx": {
+      "id": "(app-client)/./components/Homepage.jsx",
+      "name": "*",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/components/Homepage.jsx#": {
+      "id": "(app-client)/./components/Homepage.jsx",
+      "name": "",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/components/Homepage.jsx#default": {
+      "id": "(app-client)/./components/Homepage.jsx",
+      "name": "default",
+      "chunks": [
+        "app/home/page:static/chunks/app/home/page.js"
       ],
       "async": false
     },
@@ -1130,6 +2060,44 @@
     "/Users/vera/cbd/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/vera/cbd/components/Navbar.jsx": {
+      "id": "(app-client)/./components/Navbar.jsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/components/Navbar.jsx#": {
+      "id": "(app-client)/./components/Navbar.jsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/vera/cbd/components/Navbar.jsx#default": {
+      "id": "(app-client)/./components/Navbar.jsx",
+      "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
       ],

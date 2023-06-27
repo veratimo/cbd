@@ -1,10 +1,8 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/about/page": "app/about/page.js",
-  "/work/page": "app/work/page.js",
   "/home/page": "app/home/page.js",
-  "/exhibition/insicure-stabilita/page": "app/exhibition/insicure-stabilita/page.js",
-  "/exhibition/il-tubo/page": "app/exhibition/il-tubo/page.js",
   "/exhibition/inside-the-outside/page": "app/exhibition/inside-the-outside/page.js",
-  "/exhibition/il-cubo/page": "app/exhibition/il-cubo/page.js"
+  "/exhibition/il-tubo/page": "app/exhibition/il-tubo/page.js",
+  "/exhibition/il-cubo/page": "app/exhibition/il-cubo/page.js",
+  "/exhibition/the-belly/page": "app/exhibition/the-belly/page.js",
+  "/exhibition/insicure-stabilita/page": "app/exhibition/insicure-stabilita/page.js"
 }

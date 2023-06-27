@@ -40,6 +40,26 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/exhibition/inside-the-outside/page.js"
+    ],
+    "/exhibition/the-belly/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/exhibition/the-belly/page.js"
+    ],
+    "/exhibition/the-sign/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/exhibition/the-sign/page.js"
+    ],
+    "/exhibition/mirrors/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/exhibition/mirrors/page.js"
+    ],
+    "/lateralmente/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/lateralmente/page.js"
     ]
   }
 }

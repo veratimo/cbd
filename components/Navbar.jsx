@@ -2,6 +2,7 @@
 import Image from "next/image"
 import { useState, useEffect, useRef } from "react";
 import MenuItems from "./MenuItems";
+import Link from "next/link";
 
 
 const navigation = [
@@ -78,6 +79,7 @@ const Navbar = () => {
         <>
           <nav className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
             <div className="relative flex h-16 items-center justify-between">
+                <Link href="/home">
                 <Image 
                   src="/assets/icons/logo-black.png" 
                   alt="t."
@@ -85,6 +87,7 @@ const Navbar = () => {
                   width={70} 
                   className="mx-2"
                 />
+                </Link>
                 <ul className="list-none sm:flex hidden justify-end items-center flex-1">
                   {navigation.map((menu, index) => (
                     <MenuItems key={index} items={menu} />
