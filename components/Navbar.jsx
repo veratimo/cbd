@@ -2,6 +2,7 @@
 import Image from "next/image"
 import { useState, useEffect, useRef } from "react";
 import MenuItems from "./MenuItems";
+import Link from "next/link";
 
 
 const navigation = [
@@ -19,31 +20,31 @@ const navigation = [
     submenu: [
       {
         name: "Il tubo",
-        href: "/iltubo",
+        href: "/exhibition/il-tubo",
       },
       {
         name: "In-sicure stabilità",
-        href: "/insicurestabilita",
+        href: "/exhibition/insicure-stabilita",
       },
       {
         name: "Il cubo",
-        href: "/ilcubo",
+        href: "/exhibition/il-cubo",
       },
       {
         name: "Inside the outside",
-        href: "/insidetheoutside",
+        href: "/exhibition/inside-the-outside",
       },
       {
         name: "The Belly",
-        href: "/thebelly",
+        href: "/exhibition/the-belly",
       },
       {
         name: "The Sign",
-        href: "/thesign",
+        href: "/exhibition/the-sign",
       },
       {
         name: "Mirror/s",
-        href: "/mirrors",
+        href: "/exhibition/mirrors",
       },
     ] 
   },
@@ -76,8 +77,9 @@ const Navbar = () => {
 
   return (
         <>
-          <nav className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+          <nav className="mx-auto max-w-7xl pb-2 sm:pb-6 lg:pb-8">
             <div className="relative flex h-16 items-center justify-between">
+                <Link href="/home">
                 <Image 
                   src="/assets/icons/logo-black.png" 
                   alt="t."
@@ -85,6 +87,7 @@ const Navbar = () => {
                   width={70} 
                   className="mx-2"
                 />
+                </Link>
                 <ul className="list-none sm:flex hidden justify-end items-center flex-1">
                   {navigation.map((menu, index) => (
                     <MenuItems key={index} items={menu} />
