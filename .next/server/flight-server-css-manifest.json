@@ -10,7 +10,19 @@
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
+    "/Users/vera/cbd/app/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/work/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
     "/Users/vera/cbd/app/exhibition/il-tubo/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/exhibition/inside-the-outside/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
@@ -22,10 +34,6 @@
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/Users/vera/cbd/app/exhibition/inside-the-outside/page": [
-      "/Users/vera/cbd/app/globals.css",
-      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
     "/Users/vera/cbd/app/exhibition/the-belly/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
@@ -34,19 +42,19 @@
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/Users/vera/cbd/app/exhibition/mirrors/page": [
-      "/Users/vera/cbd/app/globals.css",
-      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
-    "/Users/vera/cbd/app/work/page": [
-      "/Users/vera/cbd/app/globals.css",
-      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
-    ],
     "/Users/vera/cbd/app/about/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
+    "/Users/vera/cbd/app/exhibition/mirrors/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
     "/Users/vera/cbd/app/lateralmente/page": [
+      "/Users/vera/cbd/app/globals.css",
+      "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/vera/cbd/app/exhibition/page": [
       "/Users/vera/cbd/app/globals.css",
       "/Users/vera/cbd/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
