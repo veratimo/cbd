@@ -35,7 +35,7 @@ const Homepage = () => {
                   “Lateralmente” è frutto di una ricerca che vuole indagare il rapporto fra ciò che esiste dentro e fuori di sé, nel mondo di oggi.
                   Lateralmente suggerisce il disturbo mentale da tabù, quale lo disegna la società attuale e la fetta più ignorante di essa, nell’opposto di questo.
               </p>
-              <Link class="text-black" href="/lateralmente">
+              <Link class="text-black" href="/exhibition">
                         <p class="pt-2 underline">Leggi di più</p>
               </Link>
           </div>

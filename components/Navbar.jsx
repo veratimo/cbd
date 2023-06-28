@@ -7,16 +7,13 @@ import Link from "next/link";
 
 const navigation = [
   { name: 'Home', 
-    href: '/home', 
-    current: true, 
+    href: '/',
   },
   { name: 'Work',
-    href: '/work', 
-    current: false,
+    href: '/work',
   },
   { name: 'Exhibition', 
-    href: '/exhibition', 
-    current: false,
+    href: '/exhibition',
     submenu: [
       {
         name: "Il tubo",
@@ -49,8 +46,7 @@ const navigation = [
     ] 
   },
   { name: 'About', 
-    href: '/about', 
-    current: false 
+    href: '/about',
   },
 ]
 
@@ -73,13 +69,11 @@ const Navbar = () => {
     };
 }, [toggle]);
 
-
-
   return (
         <>
           <nav className="mx-auto max-w-7xl pb-2 sm:pb-6 lg:pb-8">
             <div className="relative flex h-16 items-center justify-between">
-                <Link href="/home">
+                <Link href="/">
                 <Image 
                   src="/assets/icons/logo-black.png" 
                   alt="t."
