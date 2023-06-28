@@ -1,8 +1,11 @@
+import Ilcubo from '@/components/exhibition/Ilcubo'
 import React from 'react'
 
 const page = () => {
   return (
-    <div>il cubo</div>
+    <>
+      <Ilcubo />
+    </>
   )
 }
 

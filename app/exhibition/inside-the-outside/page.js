@@ -1,8 +1,11 @@
+import Inside from '@/components/exhibition/Inside'
 import React from 'react'
 
 const page = () => {
   return (
-    <div>inside the outside</div>
+    <>
+      <Inside />
+    </>
   )
 }
 

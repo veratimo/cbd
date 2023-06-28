@@ -47,7 +47,7 @@ const Homepage = () => {
         {/* Start grid gallery */}
         <div className='grid grid-cols-1 place-items-center sm:grid-cols-3'>
             {featuredExhibition.map((featured, id) => (
-              <div className='p-4'>
+              <div className='p-4 transition ease-in-out delay-250 hover:-translate-y-1 hover:scale-110 duration-600'>
                 <Link href={featured.href}>
                   <Image src={featured.image} alt='' width={300} height={300}/>
                 </Link>             

@@ -1,8 +1,11 @@
+import Thebelly from '@/components/exhibition/Thebelly'
 import React from 'react'
 
 const page = () => {
   return (
-    <div>the belly</div>
+    <>
+      <Thebelly />
+    </>
   )
 }
 
