@@ -9,9 +9,9 @@ const Homepage = () => {
   return (
     <div className='container mx-auto py-0 sm:py-6 lg:py-8'>
       <div className='mx-auto max-w-7xl px-2 sm:px-6 lg:px-8'>
-        <div className='flex flex-row items-center justify-center sm:justify-between h-[50vh] sm:h-auto'>
+        <div className='flex flex-row flex-wrap items-center justify-center sm:justify-between h-[50vh] sm:h-auto'>
           <div className='flex-col'>
-            <h1>Lateralmente</h1>
+            <h1 className='text-3xl sm:text-5xl'>Lateralmente</h1>
             <h2>/la·te·ral·mén·te/</h2>
             <h3>avverbio</h3>
             <p>Di lato, di fianco.</p>

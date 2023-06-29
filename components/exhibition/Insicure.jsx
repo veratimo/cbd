@@ -10,7 +10,7 @@ const Insicure = () => {
             </div>
             <div className='grid grid-cols-1 sm:grid-cols-2 sm:grid-rows-2 my-12 pt-12'>
               <div className='mx-4 sm:mx-auto'>
-                <h1 className='text-3xl sm:text-6xl'>In-sicure stabilità</h1>
+                <h1 className='text-3xl sm:text-6xl'>In-sicure <br />stabilità</h1>
                 <h2>Gennaio 2022</h2>
                 <h3>Ferro, ruota multidirezionale</h3>
                 <h4>190.5 x 42 x 10.5 cm</h4>
