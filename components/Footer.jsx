@@ -5,9 +5,9 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='mx-auto max-w-7xl py-2 sm:py-6 lg:py-8'>
-      <div className="flex flex-col sm:flex-row justify-between align-center py-3 my-4">
+      <div className="flex flex-col sm:flex-row justify-between align-center py-3 my-4 border-t border-t-black">
         <div className="px-4">
-          <Image src="/assets/icons/logo-black.png" alt="" height={100} width={50} />
+          {/* <Image src="/assets/icons/logo-black.png" alt="" height={100} width={50} /> */}
           <span className="mb-3 font-[14px] sm:font-[16px]">© 2022 Chiara Bonetti</span>
         </div>
 

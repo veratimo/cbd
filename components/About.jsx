@@ -35,7 +35,7 @@ const About = () => {
             Scrivimi
           </p>
           <form
-            action="/send-data-here"
+            action=""
             method="post"
             className="mt-12 flex flex-col gap-8"
           >
@@ -46,7 +46,7 @@ const About = () => {
                 type="text"
 
                 placeholder="What's your name?"
-                className="bg-white focus:outline-none focus:ring focus:ring-white py-4 px-6 placeholder:text-secondary text-tertiary rounded-lg outlined-none border-none font-medium"
+                className="outline outline-stone-100 focus:outline-black focus:ring focus:ring-white py-4 px-6 placeholder:text-secondary text-tertiary rounded-lg outlined-none border-none font-medium"
               />
             </label>
             <label className="flex flex-col">
@@ -57,7 +57,7 @@ const About = () => {
                 name="email"
 
                 placeholder="What's your email?"
-                className="bg-white focus:outline-none focus:ring focus:ring-white py-4 px-6 placeholder:text-secondary text-tertiary rounded-lg outlined-none border-none font-medium"
+                className="outline outline-stone-100 focus:outline-black focus:ring focus:ring-white py-4 px-6 placeholder:text-secondary text-tertiary rounded-lg outlined-none border-none font-medium"
               />
             </label>
             <label className="flex flex-col">
@@ -68,7 +68,7 @@ const About = () => {
                 name="message"
 
                 placeholder="What do you want to say?"
-                className="bg-white focus:outline-none focus:ring focus:ring-white py-4 px-6 placeholder:text-secondary text-tertiary rounded-lg outlined-none border-none font-medium"
+                className="outline outline-stone-100 focus:outline-black focus:ring focus:ring-white py-4 px-6 placeholder:text-secondary text-tertiary rounded-lg outlined-none border-none font-medium"
               />
             </label>
             <button
