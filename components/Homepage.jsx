@@ -1,4 +1,3 @@
-'use client'
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react'
@@ -26,7 +25,7 @@ const Homepage = () => {
         </div>
         {/* end of hero and start p Lateralmente */}
         <div className='mx-auto my-9 py-9'>
-          <div class="flex items-center h-20 flex-row justify-center py-4 sm:py-8 my-4 sm:my-8">
+          <div className="flex items-center h-20 flex-row justify-center py-4 sm:py-8 my-4 sm:my-8">
               <hr style={{width:"50%"}} />
           </div>
 
@@ -35,12 +34,12 @@ const Homepage = () => {
                   “Lateralmente” è frutto di una ricerca che vuole indagare il rapporto fra ciò che esiste dentro e fuori di sé, nel mondo di oggi.
                   Lateralmente suggerisce il disturbo mentale da tabù, quale lo disegna la società attuale e la fetta più ignorante di essa, nell’opposto di questo.
               </p>
-              <Link class="text-black" href="/exhibition">
-                        <p class="pt-2 underline">Leggi di più</p>
+              <Link className="text-black" href="/exhibition">
+                        <p className="pt-2 underline">Leggi di più</p>
               </Link>
           </div>
 
-          <div class="flex items-center h-20 flex-row justify-center py-4 sm:py-8 my-4 sm:my-8">
+          <div className="flex items-center h-20 flex-row justify-center py-4 sm:py-8 my-4 sm:my-8">
               <hr style={{width:"50%"}} />
           </div>
         </div>
@@ -49,7 +48,7 @@ const Homepage = () => {
             {featuredExhibition.map((featured, id) => (
               <div className='p-4 transition ease-in-out delay-250 hover:-translate-y-1 hover:scale-110 duration-600'>
                 <Link href={featured.href}>
-                  <Image src={featured.image} alt='' width={300} height={300}/>
+                  <Image src={featured.image} key={id} alt='' width={300} height={300}/>
                 </Link>             
               </div>
             ))}
