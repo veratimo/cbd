@@ -71,8 +71,8 @@ const Navbar = () => {
 
   return (
         <>
-          <nav className="mx-auto max-w-7xl pb-2 sm:pb-6 lg:pb-8">
-            <div className="relative flex h-16 items-center justify-between">
+          <nav className="sticky top-0 mx-auto max-w-7xl pb-2 sm:pb-6 lg:pb-8 ">
+            <div className="flex h-16 items-center justify-between bg-white/95">
                 <Link href="/">
                 <Image 
                   src="/assets/icons/logo-black.png" 
@@ -101,7 +101,7 @@ const Navbar = () => {
                   <div
                     className={`z-40 ${
                       !toggle ? "hidden" : "flex"
-                    } p-6 bg-white-grey-gradient absolute top-20 right-0 mx-4 my-2 min-w-[140px] rounded-xl sidebar`}
+                    } p-6 bg-white absolute top-20 right-0 mx-4 my-2 min-w-[140px] rounded-xl sidebar`}
                     >
                     <ul className="list-none flex justify-end items-start flex-1 flex-col">
                       {navigation.map((menu, index) => (
